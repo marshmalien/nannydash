@@ -2,6 +2,19 @@
 
 http://nannydash.herokuapp.com/
 
+## Login
+
+> __Babysitting Agency__<br />
+> UN: lori@example.com<br />
+> PW: password<br />
+>
+> __Parent__<br />
+> UN: marliana@example.com<br />
+> PW: password<br />
+>
+> __Babysitter__<br />
+> UN: chloe@example.com<br />
+> PW: password<br />
 
 ## Learn More
 
